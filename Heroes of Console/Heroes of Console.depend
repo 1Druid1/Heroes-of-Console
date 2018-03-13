@@ -1,0 +1,367 @@
+# depslib dependency file v1.0
+1458371376 source:c:\users\Артем\desktop\heroes of console\heroes of console\objectbase.cpp
+	"objectbase.h"
+	"classmodulmain.h"
+
+1458371291 c:\users\Артем\desktop\heroes of console\heroes of console\objectbase.h
+	"elf_hero.h"
+	"knight.h"
+	"evil_hero.h"
+	"human_soldier.h"
+	"human_shooter.h"
+	"human_heavysoldier.h"
+	"elf_archer.h"
+	"elf_hunter.h"
+	"elf_druid.h"
+	"evil_demon.h"
+	"evil_warrior.h"
+	"bonus.h"
+	"bonus_a.h"
+	"bonus_h.h"
+	"bonus_s.h"
+	"players.h"
+	"MainObject.h"
+
+1458530217 c:\users\Артем\desktop\heroes of console\heroes of console\elf_hero.h
+	"MainObject.h"
+
+1458456307 c:\users\Артем\desktop\heroes of console\heroes of console\mainobject.h
+	"players.h"
+
+1458529669 c:\users\Артем\desktop\heroes of console\heroes of console\players.h
+	<stdbool.h>
+
+1457760055 c:\users\Артем\desktop\heroes of console\heroes of console\knight.h
+
+1457760370 c:\users\Артем\desktop\heroes of console\heroes of console\evil_hero.h
+
+1457760379 c:\users\Артем\desktop\heroes of console\heroes of console\human_soldier.h
+
+1457760385 c:\users\Артем\desktop\heroes of console\heroes of console\human_shooter.h
+
+1458456299 c:\users\Артем\desktop\heroes of console\heroes of console\human_heavysoldier.h
+
+1457760399 c:\users\Артем\desktop\heroes of console\heroes of console\elf_archer.h
+
+1457760412 c:\users\Артем\desktop\heroes of console\heroes of console\elf_hunter.h
+
+1457760420 c:\users\Артем\desktop\heroes of console\heroes of console\elf_druid.h
+
+1457760427 c:\users\Артем\desktop\heroes of console\heroes of console\evil_demon.h
+
+1457760433 c:\users\Артем\desktop\heroes of console\heroes of console\evil_warrior.h
+
+1457924446 c:\users\Артем\desktop\heroes of console\heroes of console\bonus.h
+	"MainObject.h"
+
+1457482504 c:\users\Артем\desktop\heroes of console\heroes of console\bonus_a.h
+	"bonus.h"
+	<time.h>
+	<windows.h>
+
+1457482589 c:\users\Артем\desktop\heroes of console\heroes of console\bonus_h.h
+	"bonus.h"
+	<time.h>
+	<windows.h>
+
+1458452083 c:\users\Артем\desktop\heroes of console\heroes of console\classmodulmain.h
+	"warfield.h"
+	"Interface.h"
+	"elf_hero.h"
+	"knight.h"
+	"evil_hero.h"
+	"human_soldier.h"
+	"human_shooter.h"
+	"human_heavysoldier.h"
+	"elf_archer.h"
+	"elf_hunter.h"
+	"elf_druid.h"
+	"evil_demon.h"
+	"evil_warrior.h"
+	"bonus.h"
+	"bonus_a.h"
+	"bonus_h.h"
+	"players.h"
+	"objectbase.h"
+	"MainObject.h"
+
+1458530179 source:c:\users\Артем\desktop\heroes of console\heroes of console\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"classmodulmain.h"
+	"WinnerAndLoser.h"
+	"HOC_LOGO.h"
+
+1458529952 c:\users\Артем\desktop\heroes of console\heroes of console\warfield.h
+	<stdbool.h>
+	<time.h>
+	<windows.h>
+	"Bonus.h"
+	"Bonus_A.h"
+	"Bonus_H.h"
+	"Players.h"
+	"objectbase.h"
+	"Interface.h"
+
+1458529728 c:\users\Артем\desktop\heroes of console\heroes of console\interface.h
+	"players.h"
+	<iostream>
+	"objectbase.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1458359795 c:\users\Артем\desktop\heroes of console\heroes of console\bonus_s.h
+	"bonus.h"
+	<time.h>
+	<windows.h>
+
+1458480570 c:\users\Артем\desktop\heroes of console\heroes of console\winnerandloser.h
+
+1458475451 c:\users\Артем\desktop\heroes of console\heroes of console\hoc_logo.h
+
+1458530179 source:g:\heroes of console\heroes of console\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"classmodulmain.h"
+	"WinnerAndLoser.h"
+	"HOC_LOGO.h"
+
+1458452083 g:\heroes of console\heroes of console\classmodulmain.h
+	"warfield.h"
+	"Interface.h"
+	"elf_hero.h"
+	"knight.h"
+	"evil_hero.h"
+	"human_soldier.h"
+	"human_shooter.h"
+	"human_heavysoldier.h"
+	"elf_archer.h"
+	"elf_hunter.h"
+	"elf_druid.h"
+	"evil_demon.h"
+	"evil_warrior.h"
+	"bonus.h"
+	"bonus_a.h"
+	"bonus_h.h"
+	"players.h"
+	"objectbase.h"
+	"MainObject.h"
+
+1458529952 g:\heroes of console\heroes of console\warfield.h
+	<stdbool.h>
+	<time.h>
+	<windows.h>
+	"Bonus.h"
+	"Bonus_A.h"
+	"Bonus_H.h"
+	"Players.h"
+	"objectbase.h"
+	"Interface.h"
+
+1457924446 g:\heroes of console\heroes of console\bonus.h
+	"MainObject.h"
+
+1458456307 g:\heroes of console\heroes of console\mainobject.h
+	"players.h"
+
+1458529669 g:\heroes of console\heroes of console\players.h
+	<stdbool.h>
+
+1457482504 g:\heroes of console\heroes of console\bonus_a.h
+	"bonus.h"
+	<time.h>
+	<windows.h>
+
+1457482589 g:\heroes of console\heroes of console\bonus_h.h
+	"bonus.h"
+	<time.h>
+	<windows.h>
+
+1458371291 g:\heroes of console\heroes of console\objectbase.h
+	"elf_hero.h"
+	"knight.h"
+	"evil_hero.h"
+	"human_soldier.h"
+	"human_shooter.h"
+	"human_heavysoldier.h"
+	"elf_archer.h"
+	"elf_hunter.h"
+	"elf_druid.h"
+	"evil_demon.h"
+	"evil_warrior.h"
+	"bonus.h"
+	"bonus_a.h"
+	"bonus_h.h"
+	"bonus_s.h"
+	"players.h"
+	"MainObject.h"
+
+1458530217 g:\heroes of console\heroes of console\elf_hero.h
+	"MainObject.h"
+
+1457760055 g:\heroes of console\heroes of console\knight.h
+
+1457760370 g:\heroes of console\heroes of console\evil_hero.h
+
+1457760379 g:\heroes of console\heroes of console\human_soldier.h
+
+1457760385 g:\heroes of console\heroes of console\human_shooter.h
+
+1458456299 g:\heroes of console\heroes of console\human_heavysoldier.h
+
+1457760399 g:\heroes of console\heroes of console\elf_archer.h
+
+1457760412 g:\heroes of console\heroes of console\elf_hunter.h
+
+1457760420 g:\heroes of console\heroes of console\elf_druid.h
+
+1457760427 g:\heroes of console\heroes of console\evil_demon.h
+
+1457760433 g:\heroes of console\heroes of console\evil_warrior.h
+
+1458359795 g:\heroes of console\heroes of console\bonus_s.h
+	"bonus.h"
+	<time.h>
+	<windows.h>
+
+1458529728 g:\heroes of console\heroes of console\interface.h
+	"players.h"
+	<iostream>
+	"objectbase.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1458480570 g:\heroes of console\heroes of console\winnerandloser.h
+
+1458475451 g:\heroes of console\heroes of console\hoc_logo.h
+
+1458371376 source:g:\heroes of console\heroes of console\objectbase.cpp
+	"objectbase.h"
+	"classmodulmain.h"
+
+1458530179 source:c:\users\druid\desktop\heroes of console\heroes of console\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"classmodulmain.h"
+	"WinnerAndLoser.h"
+	"HOC_LOGO.h"
+
+1458452083 c:\users\druid\desktop\heroes of console\heroes of console\classmodulmain.h
+	"warfield.h"
+	"Interface.h"
+	"elf_hero.h"
+	"knight.h"
+	"evil_hero.h"
+	"human_soldier.h"
+	"human_shooter.h"
+	"human_heavysoldier.h"
+	"elf_archer.h"
+	"elf_hunter.h"
+	"elf_druid.h"
+	"evil_demon.h"
+	"evil_warrior.h"
+	"bonus.h"
+	"bonus_a.h"
+	"bonus_h.h"
+	"players.h"
+	"objectbase.h"
+	"MainObject.h"
+
+1458529952 c:\users\druid\desktop\heroes of console\heroes of console\warfield.h
+	<stdbool.h>
+	<time.h>
+	<windows.h>
+	"Bonus.h"
+	"Bonus_A.h"
+	"Bonus_H.h"
+	"Players.h"
+	"objectbase.h"
+	"Interface.h"
+
+1457924446 c:\users\druid\desktop\heroes of console\heroes of console\bonus.h
+	"MainObject.h"
+
+1458456307 c:\users\druid\desktop\heroes of console\heroes of console\mainobject.h
+	"players.h"
+
+1458529669 c:\users\druid\desktop\heroes of console\heroes of console\players.h
+	<stdbool.h>
+
+1457482504 c:\users\druid\desktop\heroes of console\heroes of console\bonus_a.h
+	"bonus.h"
+	<time.h>
+	<windows.h>
+
+1457482589 c:\users\druid\desktop\heroes of console\heroes of console\bonus_h.h
+	"bonus.h"
+	<time.h>
+	<windows.h>
+
+1458371291 c:\users\druid\desktop\heroes of console\heroes of console\objectbase.h
+	"elf_hero.h"
+	"knight.h"
+	"evil_hero.h"
+	"human_soldier.h"
+	"human_shooter.h"
+	"human_heavysoldier.h"
+	"elf_archer.h"
+	"elf_hunter.h"
+	"elf_druid.h"
+	"evil_demon.h"
+	"evil_warrior.h"
+	"bonus.h"
+	"bonus_a.h"
+	"bonus_h.h"
+	"bonus_s.h"
+	"players.h"
+	"MainObject.h"
+
+1458530217 c:\users\druid\desktop\heroes of console\heroes of console\elf_hero.h
+	"MainObject.h"
+
+1457760055 c:\users\druid\desktop\heroes of console\heroes of console\knight.h
+
+1457760370 c:\users\druid\desktop\heroes of console\heroes of console\evil_hero.h
+
+1457760379 c:\users\druid\desktop\heroes of console\heroes of console\human_soldier.h
+
+1457760385 c:\users\druid\desktop\heroes of console\heroes of console\human_shooter.h
+
+1458456299 c:\users\druid\desktop\heroes of console\heroes of console\human_heavysoldier.h
+
+1457760399 c:\users\druid\desktop\heroes of console\heroes of console\elf_archer.h
+
+1457760412 c:\users\druid\desktop\heroes of console\heroes of console\elf_hunter.h
+
+1457760420 c:\users\druid\desktop\heroes of console\heroes of console\elf_druid.h
+
+1457760427 c:\users\druid\desktop\heroes of console\heroes of console\evil_demon.h
+
+1457760433 c:\users\druid\desktop\heroes of console\heroes of console\evil_warrior.h
+
+1458359795 c:\users\druid\desktop\heroes of console\heroes of console\bonus_s.h
+	"bonus.h"
+	<time.h>
+	<windows.h>
+
+1458529728 c:\users\druid\desktop\heroes of console\heroes of console\interface.h
+	"players.h"
+	<iostream>
+	"objectbase.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1458480570 c:\users\druid\desktop\heroes of console\heroes of console\winnerandloser.h
+
+1458475451 c:\users\druid\desktop\heroes of console\heroes of console\hoc_logo.h
+
+1458371376 source:c:\users\druid\desktop\heroes of console\heroes of console\objectbase.cpp
+	"objectbase.h"
+	"classmodulmain.h"
+
